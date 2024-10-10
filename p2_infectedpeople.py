@@ -4,7 +4,7 @@
 @Date: 2024-09-07
 @Last Modified by: Nagashree C R
 @Last Modified: 2024-09-07
-@Title : To find out the infected population percentage locally and globally
+@Title : Program to find out the infected population percentage locally and globally
 
 '''
 from pyspark.sql import SparkSession
