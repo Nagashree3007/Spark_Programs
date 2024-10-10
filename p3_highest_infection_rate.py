@@ -1,3 +1,12 @@
+'''
+
+@Author: Nagashree C R
+@Date: 2024-09-07
+@Last Modified by: Nagashree C R
+@Last Modified: 2024-09-07
+@Title : Program to find out the countries with the highest infection rates
+
+'''
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, sum as sql_sum, when, round
 
